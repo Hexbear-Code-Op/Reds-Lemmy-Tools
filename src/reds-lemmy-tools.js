@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         Red's Lemmy Tools
 // @namespace    https://www.redwizard.party
-// @version      2025.03.31
+// @version      v2025.03.31.234
 // @description  Adds a search button to URL posts to find where else it's posted, and highlights posts from external communities.
 // @author       RedWizard@hexbear.net
 // @match        *://hexbear.net/*
